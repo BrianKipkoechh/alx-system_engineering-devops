@@ -1,1 +1,3 @@
-pwd
+#!/bin/bash
+README.md echo 'my readme'
+
