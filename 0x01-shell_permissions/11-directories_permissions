@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+rx
+pwd -type d -exec chmod a+rx
